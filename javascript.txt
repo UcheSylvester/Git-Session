@@ -1,4 +1,8 @@
 JavaScript is a fun language. It is used for making web pages interactive! 
 Learn JavaScript.
 
+Flutter is a fun language. It is used for making mobile, web and deskop application! 
+
+Learn Flutter 
+
 Yes @Sylvester, I believe you because JavaScript was actually carved out from Java and that makes it necessary that everyone should have a knowledge of Java and JavaScript. 
